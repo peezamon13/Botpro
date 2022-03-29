@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ba1a879-a7c3-4746-86fc-8c3c52166df7" name="Default Changelist" comment="eeee no dzialaj pls">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../botDiscord\exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sky &lt;50047674+skytokox@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JupyterTrust" id="5a9dc944-276a-4df5-a52b-ae8c00afc99a" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20KObVBqmPJJsrGqMeVJCcmbNdR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sky\Desktop\Programowanie\Python\botDiscord\covid" />
+      <recent name="C:\Users\sky\Desktop\Programowanie\Python\botDiscord\other" />
+      <recent name="C:\Users\sky\Desktop\Programowanie\Python\botDiscord" />
+      <recent name="C:\Users\norbi\OneDrive\Programowansko\botDiscord" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="botDiscord" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ba1a879-a7c3-4746-86fc-8c3c52166df7" name="Default Changelist" comment="" />
+      <created>1635789883817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635789883817</updated>
+      <workItem from="1635789885452" duration="4228000" />
+      <workItem from="1636564028331" duration="3729000" />
+      <workItem from="1637162225243" duration="7679000" />
+      <workItem from="1637498210256" duration="603000" />
+      <workItem from="1637499142976" duration="28243000" />
+      <workItem from="1637957201827" duration="1547000" />
+      <workItem from="1638013842157" duration="5390000" />
+      <workItem from="1638284481446" duration="3148000" />
+      <workItem from="1638374835403" duration="1786000" />
+      <workItem from="1638463348930" duration="608000" />
+      <workItem from="1638523874100" duration="3566000" />
+      <workItem from="1638705899749" duration="6000000" />
+      <workItem from="1638783058293" duration="1204000" />
+      <workItem from="1638869929605" duration="168000" />
+      <workItem from="1638964912922" duration="18000" />
+      <workItem from="1639002710004" duration="3191000" />
+      <workItem from="1639075287133" duration="17000" />
+      <workItem from="1639076068081" duration="1217000" />
+      <workItem from="1639157779665" duration="635000" />
+      <workItem from="1639233908942" duration="11261000" />
+      <workItem from="1639310866421" duration="7964000" />
+      <workItem from="1639408118274" duration="2072000" />
+      <workItem from="1639583776858" duration="603000" />
+      <workItem from="1639666135635" duration="21996000" />
+      <workItem from="1639759851173" duration="2711000" />
+      <workItem from="1639836244689" duration="2788000" />
+      <workItem from="1639858666464" duration="1318000" />
+      <workItem from="1639924941493" duration="15171000" />
+      <workItem from="1639992688781" duration="918000" />
+      <workItem from="1640042191178" duration="887000" />
+      <workItem from="1640079144004" duration="636000" />
+      <workItem from="1640113177500" duration="2779000" />
+      <workItem from="1640164323223" duration="730000" />
+      <workItem from="1640165226302" duration="872000" />
+      <workItem from="1640271802508" duration="3570000" />
+      <workItem from="1640465109644" duration="6655000" />
+      <workItem from="1640975303245" duration="5304000" />
+      <workItem from="1641072568547" duration="8068000" />
+      <workItem from="1641129602878" duration="2897000" />
+      <workItem from="1641222631795" duration="960000" />
+      <workItem from="1641477819037" duration="5242000" />
+      <workItem from="1641588033731" duration="25000" />
+      <workItem from="1641676301963" duration="31000" />
+      <workItem from="1641743572895" duration="11211000" />
+      <workItem from="1641843401996" duration="1699000" />
+      <workItem from="1642083784346" duration="4836000" />
+      <workItem from="1642247801905" duration="22000" />
+      <workItem from="1642256846709" duration="14000" />
+      <workItem from="1642256884903" duration="23000" />
+      <workItem from="1642281233012" duration="85000" />
+      <workItem from="1642352900076" duration="7497000" />
+      <workItem from="1642713081092" duration="1887000" />
+      <workItem from="1642720138775" duration="1625000" />
+      <workItem from="1642760399819" duration="606000" />
+      <workItem from="1643458825061" duration="5000" />
+      <workItem from="1644696210974" duration="1477000" />
+      <workItem from="1644701333751" duration="1737000" />
+      <workItem from="1644716600588" duration="108000" />
+      <workItem from="1644758362846" duration="5368000" />
+    </task>
+    <task id="LOCAL-00043" summary="Update discord.log">
+      <created>1639933371538</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1639933371538</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Update discord.log">
+      <created>1639933581884</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1639933581884</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Update discord.log">
+      <created>1639933686057</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1639933686057</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Update discord.log">
+      <created>1639933798904</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1639933798904</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Update discord.log">
+      <created>1639934354802</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1639934354802</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Update discord.log">
+      <created>1639938061655</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1639938061655</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Update discord.log">
+      <created>1639938118245</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1639938118245</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Update discord.log">
+      <created>1639938153970</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1639938153970</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Update discord.log">
+      <created>1639938191384</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1639938191384</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Update discord.log">
+      <created>1639939046324</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1639939046324</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Update discord.log">
+      <created>1639940079329</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1639940079329</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Update discord.log">
+      <created>1639940133370</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1639940133371</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Update discord.log">
+      <created>1639941749911</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1639941749911</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Update discord.log">
+      <created>1639941855206</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1639941855206</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Update discord.log">
+      <created>1639942125695</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1639942125695</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Update discord.log">
+      <created>1639943663080</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1639943663080</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Update discord.log">
+      <created>1639943832806</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1639943832806</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Update discord.log">
+      <created>1639944148283</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1639944148283</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Update discord.log">
+      <created>1639944400102</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1639944400102</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Update discord.log">
+      <created>1639945026100</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1639945026100</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Update discord.log">
+      <created>1639945061418</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1639945061418</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Update discord.log">
+      <created>1639945123269</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1639945123269</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Update discord.log">
+      <created>1639945297271</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1639945297271</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Update discord.log">
+      <created>1639945405446</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1639945405446</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Update discord.log">
+      <created>1639945531374</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1639945531374</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Update discord.log">
+      <created>1639946185755</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1639946185755</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Update discord.log">
+      <created>1639946273776</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1639946273776</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Update discord.log">
+      <created>1639947231996</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1639947231997</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Update discord.log">
+      <created>1639947336078</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1639947336078</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Update discord.log">
+      <created>1639947349012</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1639947349012</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Update discord.log">
+      <created>1639947487655</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1639947487655</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Update discord.log">
+      <created>1639947624097</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1639947624098</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Update discord.log">
+      <created>1640042688483</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1640042688483</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Update discord.log">
+      <created>1640114922811</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1640114922811</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Update discord.log">
+      <created>1640271893602</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1640271893603</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Update discord.log">
+      <created>1640272054666</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1640272054666</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Update discord.log">
+      <created>1640274811744</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1640274811744</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Update discord.log">
+      <created>1640277676841</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1640277676841</updated>
+    </task>
+    <task id="LOCAL-00081" summary="ulepszylem aktualizowanie omikrona, powinno byc szybsze i ladniej prezentowane? no cos tego typu">
+      <created>1641081113927</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1641081113927</updated>
+    </task>
+    <task id="LOCAL-00082" summary="no ee tak">
+      <created>1641151201160</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1641151201161</updated>
+    </task>
+    <task id="LOCAL-00083" summary="no naprawilem i generalnie juz powinno normalnie wysylac codzienne dane i nie robic syfu">
+      <created>1641481456430</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1641481456430</updated>
+    </task>
+    <task id="LOCAL-00084" summary="dodalem autora do help i wersje bota zebym wiedzial czy jest aktualne">
+      <created>1641483091449</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1641483091449</updated>
+    </task>
+    <task id="LOCAL-00085" summary="big update&#10;!covid command now looks way better than before&#10;(ps. maciek musisz pobrac nowa libke w requirements.txt)">
+      <created>1642373026917</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1642373026918</updated>
+    </task>
+    <task id="LOCAL-00086" summary="big update&#10;!covid command now looks way better than before&#10;(ps. maciek musisz pobrac nowa libke w requirements.txt)">
+      <created>1642373075860</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1642373075860</updated>
+    </task>
+    <task id="LOCAL-00087" summary="no ponaprawialem troche bo nuby w MZ popsuli">
+      <created>1644716690898</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1644716690898</updated>
+    </task>
+    <task id="LOCAL-00088" summary="poprawione v2???">
+      <created>1644758737063</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1644758737063</updated>
+    </task>
+    <task id="LOCAL-00089" summary="eee moze to mu pomoze???">
+      <created>1644759571799</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1644759571799</updated>
+    </task>
+    <task id="LOCAL-00090" summary="aha kox pomylilem daty">
+      <created>1644761474444</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1644761474444</updated>
+    </task>
+    <task id="LOCAL-00091" summary="eeee no dzialaj pls">
+      <created>1644765039647</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1644765039647</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/sussybot" />
+    </ignored-roots>
+    <MESSAGE value="Update discord.log" />
+    <MESSAGE value="ulepszylem aktualizowanie omikrona, powinno byc szybsze i ladniej prezentowane? no cos tego typu" />
+    <MESSAGE value="no ee tak" />
+    <MESSAGE value="no naprawilem i generalnie juz powinno normalnie wysylac codzienne dane i nie robic syfu" />
+    <MESSAGE value="dodalem autora do help i wersje bota zebym wiedzial czy jest aktualne" />
+    <MESSAGE value="big update&#10;!covid command now looks way better than before&#10;(ps. maciek musisz pobrac nowa libke w requirements.txt)" />
+    <MESSAGE value="no ponaprawialem troche bo nuby w MZ popsuli" />
+    <MESSAGE value="poprawione v2???" />
+    <MESSAGE value="eee moze to mu pomoze???" />
+    <MESSAGE value="aha kox pomylilem daty" />
+    <MESSAGE value="eeee no dzialaj pls" />
+    <option name="LAST_COMMIT_MESSAGE" value="eeee no dzialaj pls" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/botDiscord$main.coverage" NAME="main Coverage Results" MODIFIED="1644761955939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
